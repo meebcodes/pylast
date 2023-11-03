@@ -11,7 +11,12 @@
 A Python interface to [Last.fm](https://www.last.fm/) and other API-compatible websites
 such as [Libre.fm](https://libre.fm/).
 
-Use the pydoc utility for help on usage or see [tests/](tests/) for examples.
+Use the pydoc utility to generate pyLast's documentation as an HTML file:
+```sh
+python3 -m pydoc -w pylast
+```
+
+Additionally, see [tests/](tests/) for examples.
 
 ## Installation
 
